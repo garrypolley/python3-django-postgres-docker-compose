@@ -20,3 +20,5 @@ The `./code` directory is removed. If you want to test this works then follow th
         }
     }
     ```
+1. Run `docker-compose up` to start the service running
+1. See it at `http://localhost:8000`
