@@ -1,6 +1,10 @@
 # Python3 Django Docker Postgres
 
-This is a simple pre-setup of Django, Docker, Docker Compose, and Postgres running together. 
+This is a simple pre-setup of Django, Docker, Docker Compose, and Postgres running together.
+This is mostly so I can copy paste the container and docker-compose file and have a running app
+on Windows/Linux without hassle.
+
+Note you'll want to rename/change the `./code` directory and the reference in the docker-compose for your app.
 
 The `./code` directory is removed. If you want to test this works then follow the docs here: https://docs.docker.com/compose/django/
 
