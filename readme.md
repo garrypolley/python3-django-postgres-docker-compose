@@ -10,7 +10,7 @@ The `./code` directory is removed. If you want to test this works then follow th
 
 *Docker login note* -- use ID _not_ email.
 
-1.  `docker-compose run web django-admin startproject sample_app .`
+1. `docker-compose run web django-admin startproject sample_app .`
 1. On windows wait for popup to "share" the drive
 1. Replace the db in settings with: 
     ```py
